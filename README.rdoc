@@ -1,0 +1,7 @@
+== Welcome to my Devise, Rspec and Cucumber app based on the RoR web framework
+
+Devise provides ready-made authentication and user management.
+RSpec is a framework for unit testing.
+Cucumber is used for integration testing and behavior driven development.
+
+Devise provides features for signing up a new user and creating an account, as well as requiring a visitor to log in before allowing access to the application. Unit tests built with RSpec confirm that small, discrete portions of the application continue working as developers add features and refactor code. Integration tests built with Cucumber determine whether the application’s features work as expected, testing the application from the point of view of the user.
